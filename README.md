@@ -1,45 +1,27 @@
 # 👋 Ciao, sono Santi
 
-Sviluppatore con buone basi teoriche e una solida comprensione generale della programmazione, anche moderna.  
-Ho anche alcuni progetti che vorrei realizzare, e questo profilo nasce per crescere, imparare, condividere.
+Sono uno sviluppatore con solide basi teoriche e pratiche.  
+Sto costruendo progetti reali, partendo da strumenti utili per altri dev.
 
----
+## 🚀 Progetti attivi
 
-## 🛠️ Fatte
+- [DockerDevKit](https://github.com/SantiFromSicily/DockerDevKit)  
+- [DockerDevBase](https://github.com/SantiFromSicily/DockerDevBase)  
 
-- Creato Repository per raccogliere progetti reali, script e contenuti utili  
-- Impostato README e descrizione profilo GitHub in ottica professionale
+### ❤️ Supporta DockerDevKit (& DockerDevBase)
 
----
+DockerDevKit e DockerDevBase sono liberi e gratuiti, ma richiedono tempo e cura. Puoi contribuire in questi modi:
 
-## 🔄 In corso
+### ⭐ Segui i progetti su GitHub:
+- [DockerDevKit](https://github.com/SantiFromSicily/DockerDevKit)  
+- [DockerDevBase](https://github.com/SantiFromSicily/DockerDevBase)  
 
-- Organizzazione dei contenuti per argomenti (Docker, Kubernetes, Web, Script)  
-- Definizione degli help script (es. `help.sh`) coerenti con i README  
-- Pulizia, revisione e standardizzazione delle cartelle e dei file nei repository
+### ☕ Donazioni e supporto:
+- [Ko-fi](https://ko-fi.com/santifromsicily)  
+- [PayPal](https://paypal.me/SantiFromSicily)  
 
----
+### 📬 Contatti e social:
+- [Facebook - SantiFromSicily](https://www.facebook.com/share/1ERqoG2W2L/)  
+- [LinkedIn - SantiFromSicily](https://www.linkedin.com/in/santi-sicily-ab0a67353)  
 
-## 📌 Da fare
-
-- Inserimento di mini-progetti pratici e funzionanti (upload PHP, API con Node, starter React Native)  
-- Documentazione chiara per ogni progetto (README, descrizioni, comandi)  
-- Piccoli template per siti vetrina o mobile app  
-- Possibili contenuti base per corsi o esercitazioni utili ad altri sviluppatori
-
----
-
-## 📬 Contattami
-
-Sono disponibile a collaborazioni in presenza su **Messina** o **Milano**, oppure da remoto.
-
-- **Facebook**:  
-- **GitHub**: [SantiFromSicily](https://github.com/SantiFromSicily)  
-- **Email**:  
-- **LinkedIn**:  
-- **Twitter**:  
-
----
-
-- ⚡ Fun fact: ...
--->
+⚠️ Sezione in sviluppo e verrà aggiornata appena disponibile.
