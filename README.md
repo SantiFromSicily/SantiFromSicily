@@ -7,7 +7,7 @@ Ho anche alcuni progetti che vorrei realizzare, e questo profilo nasce per cresc
 
 ## 🛠️ Fatte
 
-- Creato il repository **RepoDevPortafolio** per raccogliere progetti reali, script e contenuti utili  
+- Creato Repository per raccogliere progetti reali, script e contenuti utili  
 - Impostato README e descrizione profilo GitHub in ottica professionale
 
 ---
